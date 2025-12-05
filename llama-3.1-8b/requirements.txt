@@ -1,0 +1,9 @@
+modal>=0.60.0
+torch>=2.0.0
+transformers>=4.40.0
+peft>=0.10.0
+accelerate>=0.30.0
+huggingface-hub>=0.20.0
+sentencepiece>=0.1.99
+protobuf>=4.25.0
+
